@@ -40,6 +40,7 @@ Servicios de montaje, asignación de trabajadores y fechas de instalación.
 
 **1. ¿Qué datos se registran de cada cliente al realizar una compra?**
 - Se registran el nombre completo del cliente, número de teléfono, correo electrónico y dirección de domicilio. Estos datos permiten identificar al cliente y mantener comunicación para informar sobre sus pedidos y coordinar las entregas.
+
 **2. ¿Cómo se registra actualmente un pedido de muebles?**
 - El pedido se registra anotando los datos del cliente, el tipo de mueble solicitado, las cantidades, las medidas, los materiales, el precio acordado y la fecha estimada de entrega. La información puede almacenarse en un registro manual o en una hoja de cálculo.
 **3. ¿Un cliente puede realizar varios pedidos?**
