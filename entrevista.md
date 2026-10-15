@@ -21,18 +21,18 @@ Recopilar información sobre los procesos de atención al cliente, elaboración 
 ## 2. Personas entrevistadas y sus cargos
 Para el levantamiento de requisitos se propone entrevistar a seis personas que desempeñen diferentes funciones dentro de una mueblería.
 ### Cargos
-**Propietario o administrador:**
-- Administración general, pedidos, precios y funcionamiento del negocio.
-**Vendedor o encargado de atención al cliente:**
-- Registro de clientes, consultas, cotizaciones y pedidos.
-**Diseñador de muebles:**
-- Diseños personalizados, medidas, colores y acabados.
-**Carpintero o fabricante:**
-- Fabricación, materiales y características de los muebles.
-**Encargado de inventario:**
-- Existencias de materiales, entradas y salidas de productos.
-**Técnico de ensamblaje e instalación:**
-- Servicios de montaje, asignación de trabajadores y fechas de instalación.
+- Propietario o administrador:
+Administración general, pedidos, precios y funcionamiento del negocio.
+- Vendedor o encargado de atención al cliente:
+Registro de clientes, consultas, cotizaciones y pedidos.
+- Diseñador de muebles:
+Diseños personalizados, medidas, colores y acabados.
+- Carpintero o fabricante:
+Fabricación, materiales y características de los muebles.
+- Encargado de inventario:
+Existencias de materiales, entradas y salidas de productos.
+- Técnico de ensamblaje e instalación:
+Servicios de montaje, asignación de trabajadores y fechas de instalación.
 
 ## 3 Preguntas y respuestas
 
